@@ -1,3 +1,5 @@
+# Hello Dr. Dan, this is Christopher Solis and I completed the fundamentals course.
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
